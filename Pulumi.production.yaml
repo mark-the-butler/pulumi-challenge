@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-2
+  checkly:accountId: bdf744e2-4efc-4b10-9d3f-212a19931b77
+  checkly:apiKey:
+    secure: AAABAONmhq5wFCY+Y9lb9RXlR0Dy5ppg3c99GUdUNv5GETDB5DxJJ5HTqK4KRUWOsEY0cHac0pzM3ctKBZkN0qiW+w==
